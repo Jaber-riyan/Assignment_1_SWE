@@ -1,0 +1,224 @@
+body
+{
+    margin: 0px;
+    padding: 0px;;
+    /* background-repeat: no-repeat; */
+    font-family: Arial, sans-serif;
+}
+
+.firstsection
+{
+    /* height: 100vh; */
+    background: url("./resources/v904-nunny-012 1.png");
+    background-repeat: no-repeat;
+}
+
+.iggg
+{
+    height: 370px;
+    margin-top: 20px;
+}
+
+/* .innn
+{
+    display: flex;
+    flex-wrap: wrap;
+    position:absolute;
+} */
+
+/* .innn text-poto
+{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+
+/* second section */
+
+/* .secondsection
+{
+    background:#ADC2D7;
+    height: 100vh;
+    height: 100vh;
+} */
+
+
+/* @media only screen and (max-width: 768px)
+{
+    .iggg
+    {
+        height: 70px;
+        padding: 50px;
+        margin-left: 890px;
+        margin-top: 40px;
+    }
+} */
+
+
+.dddd
+{
+    display: flex;
+    /* flex-wrap: wrap; */
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.section_2
+{
+    /* height: 100vh; */
+    background: url("./resources/v904-nunny-012 1.png");
+    color: rgb(43, 31, 14);
+    background-repeat: repeat;
+    background-position: center;
+}
+
+.ipad-9
+{
+    display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    gap: 90px;
+}
+
+.macair
+{
+    display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.headphone
+{
+    display: flex;
+    margin-top: 30px;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.ipad-txt
+{
+    margin-left: 30px;
+}
+
+.foursection ctrg
+{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.catrrr
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    font-size: 20px;
+}
+
+.ctgr
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fivesection
+{
+    background: #958AD4;
+    /* height: 50vh; */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.leftphotfivesection
+{
+    height: 250px;
+    margin-top: 40px;
+}
+
+.rightphotofivesection
+{
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 525px;
+}
+
+.sale
+{
+    gap: 15px;
+}
+
+.tx
+{
+    margin-top: 70px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-logo img {
+    width: 120px;
+    margin-right: 10px;
+  }
+  
+  .footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-links li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .footer-links a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .footer-social a {
+    color: #fff;
+    margin-right: 15px;
+    text-decoration: none;
+  }
+  
+  .footer-bottom {
+    background-color: #222;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .footer-bottom p {
+    margin: 0;
+  }
+  
